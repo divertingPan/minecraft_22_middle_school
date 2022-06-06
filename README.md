@@ -1,6 +1,8 @@
 # 我的世界-新乡市二十二中学
 
-这里是我的世界1.18.2版本的新乡市二十二中学地图存档。这个项目从2013年8月18号放下第一块砖头，缝缝补补一直到今天。只是自娱自乐的一个地图，边缘的建模非常糙，等校园主体做差不多再说边缘的建模吧）
+这里是我的世界1.18.2版本的新乡市二十二中学地图存档，无需其他mod，均使用纯原版方块。
+
+这个项目从2013年8月18号放下第一块砖头，缝缝补补一直到今天。只是自娱自乐的一个地图，边缘的建模非常糙，等校园主体做差不多再说边缘的建模吧）
 
 这个地图的主要参照是2012年的校园，当然校园现在已经完全变样了，只剩临街的大楼还大致一样。当前的建造只能依靠记忆或残存的影像或者纯想象了。
 
@@ -14,9 +16,11 @@
 
 
 # minecraft_22_middle_school
-This is a Minecraft 1.18.2 save with the map of Xinxiang No.22 middle school. This project was initially started on Aug. 18. 2013 when the first block was placed. I keep constructing it till today. I think it's great to save it on Github and share it. The modeling is coarse at the edges of the map. After the main campus is done, I may consider fixing the edges. 
+This is a Minecraft 1.18.2 save with the map of Xinxiang No.22 middle school with no external mods and blocks. 
 
-The campus is mainly based on the school in 2012. The real campus is changed totally (maybe the only same thing is the building on the street). The reference of the following construction is only the photos or even our memory. 
+This project was initially started on Aug. 18. 2013 when the first block was placed. I keep constructing it till today. I think it's great to save it on Github and share it. The modeling is coarse at the edges of the map. After the main campus is done, I may consider fixing the edges. 
+
+The campus is mainly based on the school in 2012. The real campus is changed totally (maybe the only same thing is the building on the street). The reference of the following construction is only old photos or even our memory. 
 
 The interior is difficult to reproduce. We need to open our minds to designing it. 
 
@@ -25,10 +29,11 @@ Feel free to download and pull requests if any alumni want to play it, fix it, o
 Screenshots of the campus record the progress of the display quality of Minecraft.
 
 
+# Screenshots
 
 Here is the map of the campus:
 
-![MAP](https://github.com/divertingPan/minecraft_22_middle_school/blob/main/img/map.png "Map") 
+![Map](https://github.com/divertingPan/minecraft_22_middle_school/blob/main/img/map.png "Map") 
 
 
 This is the first building in this project, and this is the third year student building: 
